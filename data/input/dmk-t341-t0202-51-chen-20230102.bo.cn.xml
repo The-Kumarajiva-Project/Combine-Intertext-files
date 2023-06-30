@@ -73,8 +73,8 @@
 <link type='1-1' xtargets='1:70;1:70' status='man'/>
 <link type='1-1' xtargets='1:71;1:71' status='man'/>
 <link type='1-1' xtargets='1:72;1:72' status='man'/>
-<link type='1-0' xtargets='1:73;' status='man'/>
 <link type='0-1' xtargets=';1:73' status='man'/>
-<link type='0-1' xtargets=';1:74' status='auto'/>
-<link type='0-1' xtargets=';1:75' status='auto'/>
+<link type='0-1' xtargets=';1:74' status='man'/>
+<link type='0-1' xtargets=';1:75' status='man'/>
+<link type='1-0' xtargets='1:73;' status='man'/>
 </linkGrp>
